@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <img src="rebeca-assis.jpg" width="500" title="banner">
+  <img src="rebeca-oliveira-assis.jpg" width="500" title="banner">
 </p>
 
 ## Linguagens e Tecnologias que uso diariamente
