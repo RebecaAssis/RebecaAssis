@@ -4,14 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-rebeca.oassis@hotmail.com-081a28?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeca.oassis@hotmail.com)](mailto:rebeca.oassis@hotmail.com)
 
 
-<p align="left">
-  <img src="rebeca-assis.jpg" width="500" title="banner">
-</p>
-
 ## Linguagens e Tecnologias que uso diariamente
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 ## ⚡Habilidades
