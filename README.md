@@ -5,4 +5,4 @@
 
 
 ## Linguagens e Tecnologias que uso diariamente
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,angular,vscode,git,github,gitlab" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,vue,scss,vscode,git,github,gitlab" />
