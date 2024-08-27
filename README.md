@@ -2,7 +2,7 @@
 (JavaScrit | TypeScript | HTML | CSS | Angular | Vue.js | Nuxt.js | Node.js | Express.js ) 🚀
 
 👩‍💻 Engenheira de Software Frontend @BancoPan <br>
-🎓 Tecnologia em Sistemas para internet @Uninove <br>
+🎓 Tecnologia em Sistemas para Internet @Uninove <br>
 💡 Apaixonada por FrontEnd e novos desafios <br>
 
 
