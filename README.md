@@ -1,7 +1,7 @@
 # Rebeca Assis 👩‍💻
 (JavaScrit | TypeScript | HTML | CSS | Angular | Vue.js | Nuxt.js | Node.js | Express.js ) 🚀
 
-👩‍💻 Engenheira de Software Frontend @BancoPan <br>
+👩‍💻 Desenvolvedora Front-End Senior @ZupInnovation <br>
 🎓 Tecnologia em Sistemas para Internet @Uninove <br>
 💡 Apaixonada por FrontEnd e novos desafios <br>
 
